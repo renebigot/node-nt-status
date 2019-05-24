@@ -1,0 +1,9 @@
+{
+  "name": "nt-status",
+  "version": "1.0.0",
+  "description": "Translate NT statuses to human readable strings",
+  "main": "index.js",
+  "repository": "https://github.com/renebigot/node-nt-status.git",
+  "author": "Rene BIGOT",
+  "license": "MIT"
+}
