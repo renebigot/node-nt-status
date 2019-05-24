@@ -4,6 +4,14 @@ This is a nodejs helper library use to translate NT Status codes to human readab
 
 It's primary purpose is to print errors messages returned `SMB` operations in `node-libdsm`.
 
+## Install
+
+`npm install nt-status`
+
+or
+
+`yarn add nt-status`
+
 ## Usage
 
 ```javascript
